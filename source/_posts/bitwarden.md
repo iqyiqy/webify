@@ -16,4 +16,5 @@ docker run -d --name bitwarden \
     bitwardenrs/server:latest
 ```
 2. nginx反向代理
+
 略
