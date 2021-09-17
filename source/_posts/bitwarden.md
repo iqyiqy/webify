@@ -4,7 +4,7 @@ date: 2021-09-17 22:01:15
 tags:
 ---
 
-开源密码管理器Bitwarden。在GitHub上有个项目叫做 bitwarden_rs，并且提供了 Docker 镜像。对机器配置的要求很低，而且 Docker 镜像体积很小，部署非常方便。
+开源密码管理器Bitwarden。项目bitwarden_rs，提供了免费全功能Docker镜像。对机器配置的要求很低，镜像体积很小，部署非常方便。
 
 主要步骤：
 1. 启动主程序
